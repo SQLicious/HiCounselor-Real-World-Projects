@@ -43,15 +43,15 @@ Celebrating a feature on Times Square, New York, after topping the leaderboard i
 Welcome to the Healthcare Data Analysis project, focusing on three essential datasets: "hospitalization_details," "medical_examinations," and "names." The project consists of two main modules:
 
 ### 1. Data Cleaning:
-I used Python to enhance data accuracy and structure, ensuring the datasets are well-prepared for meaningful analysis and extracting valuable insights. These steps were performed on hospitalization_details,csv and medical_examinations,csv files
+I used Python to enhance data accuracy and structure, ensuring the datasets are well-prepared for meaningful analysis and extracting valuable insights. These steps were performed on hospitalization_detailscsv and medical_examinations.csv files
 
 ### 2. SQL-Powered Insights:
 In the second module, utilize SQL queries to extract insightful information from the refined datasets. Delve into healthcare data to facilitate informed decision-making and optimize resource allocation in the healthcare sector.
 
 
 #### Approach
-- Cleaned up 82,708 records with Python and Pandas.
-- Loaded cleaned data into an SQL database.
+- Cleaned up hospitalization_details,csv((XX records, XX columns)) and medical_examinations.csv(XX records, XX columns) with Python and Pandas.
+- Loaded cleaned data into an My SQL database provided by Hicounselor
 - Explored loan statistics, job impact on borrowing, repayment duration, borrower ratings, and homeownership influence on loan approval.
 
 #### Benefits:
