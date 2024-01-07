@@ -10,7 +10,7 @@ Welcome to my HiCounselor Projects Repository! Here, you'll find a collection of
 #### Overview
 Dive into the world of Fintech with this project! Explore the intricacies of predicting creditworthiness, tailoring loan terms, and minimizing default rates using SQL queries. Get insights into the factors determining loan approval and rejection.
 
-Click [here] (https://github.com/SQLicious/HiCounselor-Real-World-Projects/blob/main/Loan%20Analysis/Inputs/Input%20Files/Loans.csv)to access the input files I used for cleaning.
+Click [here](https://github.com/SQLicious/HiCounselor-Real-World-Projects/blob/main/Loan%20Analysis/Inputs/Input%20Files/Loans.csv) to access the input files I used for cleaning.
 
 Click [here](https://github.com/SQLicious/HiCounselor-Real-World-Projects/tree/main/Medical%20Dataset%20Analysis/Cleaned%20datasets) to access the cleaned files for this project.
 
