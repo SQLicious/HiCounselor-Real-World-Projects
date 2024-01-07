@@ -21,8 +21,9 @@ Dive into the world of Fintech with this project! Explore the intricacies of pre
 - Loan repayment duration and status analysis.
 - Ratings and the role of homeownership in loan approval.
 
-#### Join In!
-Try your hand at basic Python and intermediate SQL. The project is free until Dec 25th. [Explore the project](https://lnkd.in/eiTyZm9c).
+#### Leadership Board Ranking!
+Here is my standing at the end of this project competition ![insert pic](insert_image_link_here)
+
 
 ### Medical Dataset Analysis: Using Python and SQL
 ![Times Square Feature](insert_times_square_image_link_here)
