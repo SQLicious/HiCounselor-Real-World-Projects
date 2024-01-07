@@ -62,10 +62,10 @@ In the second module, utilize SQL queries to extract insightful information from
 -  Illuminate the path to actionable insights, shaping the future of healthcare analytics.
 
 #### Key Findings
-- Basic loan stats: counts, average interest rates, highs, and lows of loan amounts.
-- Impact of job on borrowing capacity.
-- Loan repayment duration and status analysis.
-- Ratings and the role of homeownership in loan approval.
+- Key finding 1 
+- Key finding 1 
+- Key finding 1 
+- Key finding 1 
 
 #### Achievements
 
