@@ -5,7 +5,7 @@ Welcome to my HiCounselor Projects Repository! Here, you'll find a collection of
 ## Projects
 
 ### [Statistical Loan Analysis for Risk Mitigation and Client Solvency using SQL](https://lnkd.in/eiTyZm9c)
-![Times Square Feature](insert_times_square_image_link_here)
+![Times Square Feature](https://github.com/SQLicious/HiCounselor-Real-World-Projects/blob/main/Loan%20Analysis/Inputs/images/Loan%20Analysis.png)
 
 #### Overview
 Dive into the world of Fintech with this project! Explore the intricacies of predicting creditworthiness, tailoring loan terms, and minimizing default rates using SQL queries. Get insights into the factors determining loan approval and rejection.
