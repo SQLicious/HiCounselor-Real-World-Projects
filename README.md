@@ -31,8 +31,6 @@ Completed the Statistical Loan Analysis project in December 2023, securing a top
 #### Exciting News!
 Celebrating a feature on Times Square, New York, after topping the leaderboard in the Loan Analysis project! The recognition has been an incredible start to 2024, paving the way for new opportunities.
 
-Now, the Hi Counselor project is back with a real-world Medical Dataset Analysis using Python and SQL. Join in for a week-long project that adds value to your portfolio.
-
 ![Times Square Feature](insert_times_square_image_link_here)
 [Watch the Times Square Feature Video](insert_times_square_video_link_here)
 
