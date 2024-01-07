@@ -45,6 +45,11 @@ Welcome to the Healthcare Data Analysis project, focusing on three essential dat
 ### 1. Data Cleaning:
 I used Python to enhance data accuracy and structure, ensuring the datasets are well-prepared for meaningful analysis and extracting valuable insights. These steps were performed on hospitalization_detailscsv and medical_examinations.csv files
 
+Click [here](https://github.com/SQLicious/HiCounselor-Real-World-Projects/tree/main/Medical%20Dataset%20Analysis/Inputs) to access the input files I used for cleaning.
+
+Click [here](https://github.com/SQLicious/HiCounselor-Real-World-Projects/tree/main/Medical%20Dataset%20Analysis/Cleaned%20datasets) to access the cleaned files for this project.
+
+
 ### 2. SQL-Powered Insights:
 In the second module, utilize SQL queries to extract insightful information from the refined datasets. Delve into healthcare data to facilitate informed decision-making and optimize resource allocation in the healthcare sector.
 
