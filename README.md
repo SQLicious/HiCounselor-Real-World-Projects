@@ -22,7 +22,7 @@ Dive into the world of Fintech with this project! Explore the intricacies of pre
 - Ratings and the role of homeownership in loan approval.
 
 #### Leadership Board Ranking!
-Here is my standing at the end of this project competition ![insert pic](insert_image_link_here)
+Here is my standing at the end of this project competition ![insert pic](https://github.com/SQLicious/HiCounselor-Real-World-Projects/blob/main/Loan%20Analysis/Inputs/images/Hicouselor%20Leadership%20Board%20Ranking.jpg)
 
 
 ### Medical Dataset Analysis: Using Python and SQL
