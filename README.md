@@ -21,17 +21,11 @@ Dive into the world of Fintech with this project! Explore the intricacies of pre
 - Loan repayment duration and status analysis.
 - Ratings and the role of homeownership in loan approval.
 
-#### Leadership Board Ranking!
+#### Achievements
+Completed the Statistical Loan Analysis project in December 2023, securing a top rank on the leaderboard.
 Here is my standing at the end of this project competition!
 
 ![insert pic](https://github.com/SQLicious/HiCounselor-Real-World-Projects/blob/main/Loan%20Analysis/Inputs/images/Hicouselor%20Leadership%20Board%20Ranking.jpg)
-
-
-### Medical Dataset Analysis: Using Python and SQL
-![Times Square Feature](insert_times_square_image_link_here)
-
-#### Achievements
-Completed the Statistical Loan Analysis project in December 2023, securing a top rank on the leaderboard.
 
 #### Exciting News!
 Celebrating a feature on Times Square, New York, after topping the leaderboard in the Loan Analysis project! The recognition has been an incredible start to 2024, paving the way for new opportunities.
@@ -39,4 +33,8 @@ Celebrating a feature on Times Square, New York, after topping the leaderboard i
 ![Times Square Feature](insert_times_square_image_link_here)
 [Watch the Times Square Feature Video](insert_times_square_video_link_here)
 
-#DataGeeks #FintechFun #portfolioproject #AchievementUnlocked #NewBeginnings
+
+### Jan 2024 Project:  Medical Dataset Analysis: Using Python and SQL
+![Times Square Feature](insert_times_square_image_link_here)
+
+
