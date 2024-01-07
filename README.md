@@ -35,6 +35,25 @@ Celebrating a feature on Times Square, New York, after topping the leaderboard i
 
 
 ### Jan 2024 Project:  Medical Dataset Analysis: Using Python and SQL
+
 ![Times Square Feature](https://github.com/SQLicious/HiCounselor-Real-World-Projects/blob/main/Medical%20Dataset%20Analysis/Images/Medical%20Analysis%20project.png)
+
+#### Overview
+Dive into the world of Fintech with this project! Explore the intricacies of predicting creditworthiness, tailoring loan terms, and minimizing default rates using SQL queries. Get insights into the factors determining loan approval and rejection.
+
+#### Approach
+- Cleaned up 82,708 records with Python and Pandas.
+- Loaded cleaned data into an SQL database.
+- Explored loan statistics, job impact on borrowing, repayment duration, borrower ratings, and homeownership influence on loan approval.
+
+#### Key Findings
+- Basic loan stats: counts, average interest rates, highs, and lows of loan amounts.
+- Impact of job on borrowing capacity.
+- Loan repayment duration and status analysis.
+- Ratings and the role of homeownership in loan approval.
+
+#### Achievements
+
+
 
 
