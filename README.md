@@ -5,6 +5,7 @@ Welcome to my HiCounselor Projects Repository! Here, you'll find a collection of
 ## Projects
 
 ### [Statistical Loan Analysis for Risk Mitigation and Client Solvency using SQL](https://lnkd.in/eiTyZm9c)
+![Times Square Feature](insert_times_square_image_link_here)
 
 #### Overview
 Dive into the world of Fintech with this project! Explore the intricacies of predicting creditworthiness, tailoring loan terms, and minimizing default rates using SQL queries. Get insights into the factors determining loan approval and rejection.
@@ -24,6 +25,7 @@ Dive into the world of Fintech with this project! Explore the intricacies of pre
 Try your hand at basic Python and intermediate SQL. The project is free until Dec 25th. [Explore the project](https://lnkd.in/eiTyZm9c).
 
 ### Medical Dataset Analysis: Using Python and SQL
+![Times Square Feature](insert_times_square_image_link_here)
 
 #### Achievements
 Completed the Statistical Loan Analysis project in December 2023, securing a top rank on the leaderboard.
