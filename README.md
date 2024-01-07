@@ -39,7 +39,14 @@ Celebrating a feature on Times Square, New York, after topping the leaderboard i
 ![Times Square Feature](https://github.com/SQLicious/HiCounselor-Real-World-Projects/blob/main/Medical%20Dataset%20Analysis/Images/Medical%20Analysis%20project.png)
 
 #### Overview
-Dive into the world of Fintech with this project! Explore the intricacies of predicting creditworthiness, tailoring loan terms, and minimizing default rates using SQL queries. Get insights into the factors determining loan approval and rejection.
+Welcome to the Healthcare Data Analysis project, focusing on three essential datasets: "hospitalization_details," "medical_examinations," and "names." The project consists of two main modules:
+
+### 1. Data Cleaning:
+I used Python to enhance data accuracy and structure, ensuring the datasets are well-prepared for meaningful analysis and extracting valuable insights. These steps were performed on hospitalization_details,csv and medical_examinations,csv files
+
+### 2. SQL-Powered Insights:
+In the second module, utilize SQL queries to extract insightful information from the refined datasets. Delve into healthcare data to facilitate informed decision-making and optimize resource allocation in the healthcare sector.
+
 
 #### Approach
 - Cleaned up 82,708 records with Python and Pandas.
