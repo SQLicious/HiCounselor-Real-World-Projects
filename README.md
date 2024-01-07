@@ -4,7 +4,7 @@ Welcome to my HiCounselor Projects Repository! Here, you'll find a collection of
 
 ## Projects
 
-### [Statistical Loan Analysis for Risk Mitigation and Client Solvency using SQL](https://lnkd.in/eiTyZm9c)
+### [Statistical Loan Analysis for Risk Mitigation and Client Solvency using SQL](https://lnkd.in/eiTyZm9c](https://github.com/SQLicious/HiCounselor-Real-World-Projects/tree/main/Loan%20Analysis/Inputs)
 ![Times Square Feature](https://github.com/SQLicious/HiCounselor-Real-World-Projects/blob/main/Loan%20Analysis/Inputs/images/Loan%20Analysis.png)
 
 #### Overview
