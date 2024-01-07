@@ -53,6 +53,13 @@ In the second module, utilize SQL queries to extract insightful information from
 - Loaded cleaned data into an SQL database.
 - Explored loan statistics, job impact on borrowing, repayment duration, borrower ratings, and homeownership influence on loan approval.
 
+#### Benefits:
+
+- Gain practical experience in data cleaning techniques for healthcare datasets.
+- Enhance proficiency in SQL queries for extracting meaningful insights from three different medical datasets.
+- Develop understanding healthcare domain by driving data-driven solutions.
+-  Illuminate the path to actionable insights, shaping the future of healthcare analytics.
+
 #### Key Findings
 - Basic loan stats: counts, average interest rates, highs, and lows of loan amounts.
 - Impact of job on borrowing capacity.
