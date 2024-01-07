@@ -34,7 +34,7 @@ Celebrating a feature on Times Square, New York, after topping the leaderboard i
 [Watch the Times Square Feature Video](insert_times_square_video_link_here)
 
 
-### Jan 2024 Project:  Medical Dataset Analysis: Using Python and SQL
+### [Jan 2024 Project:  Medical Dataset Analysis: Using Python and SQL] (https://github.com/SQLicious/HiCounselor-Real-World-Projects/tree/main/Medical%20Dataset%20Analysis)
 
 ![Times Square Feature](https://github.com/SQLicious/HiCounselor-Real-World-Projects/blob/main/Medical%20Dataset%20Analysis/Images/Medical%20Analysis%20project.png)
 
