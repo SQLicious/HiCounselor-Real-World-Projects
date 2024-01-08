@@ -40,6 +40,7 @@ Secured 1st prize in HiCounselor's Data Analyst Live Project, 'Statistical Loan 
 
 ### [Jan 2024 Project: Medical Dataset Analysis - Using Python and SQL](https://github.com/SQLicious/HiCounselor-Real-World-Projects/tree/main/Medical%20Dataset%20Analysis)
 
+(https://github.com/SQLicious/HiCounselor-Real-World-Projects/blob/main/Medical%20Dataset%20Analysis/Images/Medical%20Analysis%20project.png)
 
 #### Overview
 Welcome to the Healthcare Data Analysis project, focusing on three essential datasets: "hospitalization_details," "medical_examinations," and "names." The project consists of two main modules:
