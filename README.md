@@ -59,6 +59,8 @@ In the second module, utilize SQL queries to extract insightful information from
 
 #### Approach
 - Cleaned up hospitalization_details,csv (2432 rows × 11 columns) and medical_examinations.csv(2343 rows × 9 columns) with Python and Pandas.
+   [Click here to explore the code](#) I used to clean these datasets:
+  
 - Loaded cleaned data into MySQL database through phpAdmin access provided by Hicounselor
 - **Explored these key Business Questions:**
   - List of Customers with Major Surgeries
@@ -72,7 +74,6 @@ In the second module, utilize SQL queries to extract insightful information from
   - Year with the Highest Number of Hospitalizations
   - Identify Customers with Significant Medical History
 
-
 #### Benefits:
 
 - Gain practical experience in data cleaning techniques for healthcare datasets.
@@ -84,7 +85,9 @@ In the second module, utilize SQL queries to extract insightful information from
 - Key finding 1 
 - Key finding 1 
 - Key finding 1 
-- Key finding 1 
+- Key finding 1
+- Key finding 1
+- Key finding 1
 
 #### Achievements
 
