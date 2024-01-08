@@ -58,7 +58,7 @@ In the second module, utilize SQL queries to extract insightful information from
 
 
 #### Approach
-- Cleaned up hospitalization_details,csv((XX records, XX columns)) and medical_examinations.csv(XX records, XX columns) with Python and Pandas.
+- Cleaned up hospitalization_details,csv((2432 rows × 11 columns)) and medical_examinations.csv(XX records, XX columns) with Python and Pandas.
 - Loaded cleaned data into an My SQL database provided by Hicounselor
 - Explored Key metrics 1 , 2, 3 ,4 and 5  here 
 
