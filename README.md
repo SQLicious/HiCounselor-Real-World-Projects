@@ -58,9 +58,20 @@ In the second module, utilize SQL queries to extract insightful information from
 
 
 #### Approach
-- Cleaned up hospitalization_details,csv((2432 rows × 11 columns)) and medical_examinations.csv(XX records, XX columns) with Python and Pandas.
-- Loaded cleaned data into an My SQL database provided by Hicounselor
-- Explored Key metrics 1 , 2, 3 ,4 and 5  here 
+- Cleaned up hospitalization_details,csv (2432 rows × 11 columns) and medical_examinations.csv(2343 rows × 9 columns) with Python and Pandas.
+- Loaded cleaned data into MySQL database through phpAdmin access provided by Hicounselor
+- **Explored these key Business Questions:**
+  - List of Customers with Major Surgeries
+  - Average Charges per Hospital Tier in 2000
+  - Customer with the Highest Number of Major Surgeries
+  - Average BMI for Each City Tier in 1995
+  - Customers with Health Issues and BMI > 30
+  - Customer with the Highest Total Charges Each Year
+  - Top 3 Customers with Highest Average Yearly Charges
+  - Rank Customers Based on Total Charges
+  - Year with the Highest Number of Hospitalizations
+  - Identify Customers with Significant Medical History
+
 
 #### Benefits:
 
