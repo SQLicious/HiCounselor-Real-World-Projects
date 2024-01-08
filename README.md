@@ -32,11 +32,9 @@ Here is my standing at the end of this project competition!
 ![insert pic](https://github.com/SQLicious/HiCounselor-Real-World-Projects/blob/main/Loan%20Analysis/Inputs/images/Hicouselor%20Leadership%20Board%20Ranking.jpg)
 
 #### Exciting News!
-Celebrating a feature on Times Square, New York, after topping the leaderboard in the Loan Analysis project! The recognition has been an incredible start to 2024, paving the way for new opportunities.
+Secured 1st prize in HiCounselor's Data Analyst Live Project, 'Statistical Loan Analysis for Risk Mitigation and Client Solvency,' outperforming 1500+ participants. Topped the Leader Board and got featured on Times Square, New York on Jan 6, 2024
 
-![Times Square Feature](insert_times_square_image_link_here)
-[Watch the Times Square Feature Video](insert_times_square_video_link_here)
-[Click here to view my Feature on Times Square](https://www.linkedin.com/posts/hicounselor_careerboost-hicounseloradventure-datasciencewinner-activity-7150122106935029760-G_oc?utm_source=share&utm_medium=member_desktop)
+[Click here to view Video of my Feature on Times Square](https://www.linkedin.com/posts/hicounselor_careerboost-hicounseloradventure-datasciencewinner-activity-7150122106935029760-G_oc?utm_source=share&utm_medium=member_desktop)
 
 
 
