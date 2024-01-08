@@ -36,12 +36,11 @@ Celebrating a feature on Times Square, New York, after topping the leaderboard i
 
 ![Times Square Feature](insert_times_square_image_link_here)
 [Watch the Times Square Feature Video](insert_times_square_video_link_here)
+[Click here to view my Feature on Times Square](https://www.linkedin.com/posts/hicounselor_careerboost-hicounseloradventure-datasciencewinner-activity-7150122106935029760-G_oc?utm_source=share&utm_medium=member_desktop)
+
 
 
 ### [Jan 2024 Project: Medical Dataset Analysis - Using Python and SQL](https://github.com/SQLicious/HiCounselor-Real-World-Projects/tree/main/Medical%20Dataset%20Analysis)
-
-
-![Times Square Feature](https://www.linkedin.com/posts/hicounselor_careerboost-hicounseloradventure-datasciencewinner-activity-7150122106935029760-G%5Eoc?utm_source=share&utm_medium=member_desktop)
 
 
 #### Overview
