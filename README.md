@@ -41,7 +41,8 @@ Celebrating a feature on Times Square, New York, after topping the leaderboard i
 ### [Jan 2024 Project: Medical Dataset Analysis - Using Python and SQL](https://github.com/SQLicious/HiCounselor-Real-World-Projects/tree/main/Medical%20Dataset%20Analysis)
 
 
-![Times Square Feature](https://www.linkedin.com/posts/hicounselor_careerboost-hicounseloradventure-datasciencewinner-activity-7150122106935029760-G_oc?utm_source=share&utm_medium=member_desktop)
+![Times Square Feature](https://www.linkedin.com/posts/hicounselor_careerboost-hicounseloradventure-datasciencewinner-activity-7150122106935029760-G%5Eoc?utm_source=share&utm_medium=member_desktop)
+
 
 #### Overview
 Welcome to the Healthcare Data Analysis project, focusing on three essential datasets: "hospitalization_details," "medical_examinations," and "names." The project consists of two main modules:
