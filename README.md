@@ -59,6 +59,7 @@ In the second module, utilize SQL queries to extract insightful information from
 
 #### Approach
 - Cleaned up hospitalization_details.csv (2432 rows × 11 columns) and medical_examinations.csv (2343 rows × 9 columns) with Python and Pandas.
+- 
    [Click here to explore the code](https://github.com/SQLicious/HiCounselor-Real-World-Projects/blob/main/Medical%20Dataset%20Analysis/Coding/Medical%20Data%20Analysis.ipynb)  I used to clean these datasets:
   
 - Loaded cleaned data into MySQL database through phpAdmin access provided by Hicounselor
