@@ -96,9 +96,11 @@ In the second module, utilize SQL queries to extract insightful information from
 
 
 #### Key Insights Deck
-(https://github.com/SQLicious/HiCounselor-Real-World-Projects/blob/main/Medical%20Dataset%20Analysis/Medical%20Dataset%20Analysis%20Key%20Insights.gif)
 
-[Clcik here to access the presentation](https://github.com/SQLicious/HiCounselor-Real-World-Projects/blob/main/Medical%20Dataset%20Analysis/Medical%20Dataset%20Analysis%20Key%20Insights.pptx)
+![Key Insights Gif](https://github.com/SQLicious/HiCounselor-Real-World-Projects/blob/main/Medical%20Dataset%20Analysis/Medical%20Dataset%20Analysis%20Key%20Insights.gif)
+
+[Click here to access the presentation](https://github.com/SQLicious/HiCounselor-Real-World-Projects/blob/main/Medical%20Dataset%20Analysis/Medical%20Dataset%20Analysis%20Key%20Insights.pptx)
+
 
 
 
