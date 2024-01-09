@@ -26,8 +26,7 @@ Click [here](https://github.com/SQLicious/HiCounselor-Real-World-Projects/tree/m
 - Ratings and the role of homeownership in loan approval.
 
 #### Achievements
-Completed the Statistical Loan Analysis project in December 2023, securing a top rank on the leaderboard.
-Here is my standing at the end of this project competition!
+Successfully completing the Statistical Loan Analysis project within two days of its December 2023 launch, I secured a top rank on the leaderboard. Unbeknownst to me, by the end of the one-week project period, a total of 1500 participants had attempted this challenge
 
 ![insert pic](https://github.com/SQLicious/HiCounselor-Real-World-Projects/blob/main/Loan%20Analysis/Inputs/images/Hicouselor%20Leadership%20Board%20Ranking.jpg)
 
