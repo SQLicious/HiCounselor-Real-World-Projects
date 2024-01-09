@@ -87,14 +87,19 @@ In the second module, utilize SQL queries to extract insightful information from
 - Top 3 Customers with Highest Average Yearly Charges: Ms. Kelly Hawks had the highest average yearly hospital charges at $63,770, followed by Mr. Matthew Lehner at $62,592 and Mr. Phil Lu at $60,021.
 - Tier 3 hospitals average approximately $4,673.12, Tier 2 hospitals around $8,915.94, and Tier 1 hospitals have the highest average charge at $35,367.44. This information can be valuable for healthcare planning, resource allocation, and understanding the financial landscape of hospitals in different tiers 
 
-- 26 high-risk patients were identified who smoke, had transplants, and were hospitalized, incurring over $800K in charges.Targeted smoking cessation and weight management programs could potentially improve health outcomes and reduce costs 
--488 patients with health issues and a Body Mass Index (BMI) greater than 30, along with associated hospitalization charges. Customers with obesity and health problems tend to have greater healthcare utilization and costs.
+- 26 high-risk patients were identified who smoke, had transplants, and were hospitalized, incurring over $800K in charges.Targeted smoking cessation and weight management programs could potentially improve health outcomes and reduce costs
+- 
+- 488 patients with health issues and a Body Mass Index (BMI) greater than 30, along with associated hospitalization charges. Customers with obesity and health problems tend to have greater healthcare utilization and costs.
 
 - 687 patients were identified as having 2+ major surgeries or cancer history, indicating complex medical needs.These individuals likely require more intensive care coordination and management due to their conditions.
 
 
 
-#### Achievements
+#### Key Insights Deck
+(https://github.com/SQLicious/HiCounselor-Real-World-Projects/blob/main/Medical%20Dataset%20Analysis/Medical%20Dataset%20Analysis%20Key%20Insights.gif)
+
+[Clcik here to access the presentation](https://github.com/SQLicious/HiCounselor-Real-World-Projects/blob/main/Medical%20Dataset%20Analysis/Medical%20Dataset%20Analysis%20Key%20Insights.pptx)
+
 
 
 
