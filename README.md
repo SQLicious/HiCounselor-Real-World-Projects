@@ -83,12 +83,14 @@ In the second module, utilize SQL queries to extract insightful information from
 -  Illuminate the path to actionable insights, shaping the future of healthcare analytics.
 
 #### Key Findings
-- Key finding 1 
-- Key finding 1 
-- Key finding 1 
-- Key finding 1
-- Key finding 1
-- Key finding 1
+- The average hospital charge per admission across all patients is $13,559.
+- Top 3 Customers with Highest Average Yearly Charges: Ms. Kelly Hawks had the highest average yearly hospital charges at $63,770, followed by Mr. Matthew Lehner at $62,592 and Mr. Phil Lu at $60,021.
+- Tier 3 hospitals average approximately $4,673.12, Tier 2 hospitals around $8,915.94, and Tier 1 hospitals have the highest average charge at $35,367.44. This information can be valuable for healthcare planning, resource allocation, and understanding the financial landscape of hospitals in different tiers 
+
+- 26 high-risk patients were identified who smoke, had transplants, and were hospitalized, incurring over $800K in charges
+-488 patients with health issues and a Body Mass Index (BMI) greater than 30, along with associated hospitalization charges
+- 687 patients were identified as having 2+ major surgeries or cancer history, indicating complex medical needs.
+
 
 #### Achievements
 
